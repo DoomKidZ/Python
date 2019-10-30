@@ -1,0 +1,7 @@
+n1 = int(input("Digite um número inteiro: "))
+n2 = int(input("Digite outro número inteiro: "))
+n3 = float(input("Digite um número real: "))
+print()
+print("o produto do dobro do primeiro (",(2*n1),") com metade do segundo(",(n2/2),") é:",((2*n1)*(n2/2)))
+print("a soma do triplo do primeiro (",(3*n1),") com o terceiro(",n3,") é:",3*n1+n3)
+print("O terceiro (",n3,") elevado ao cubo vale:",(n3**3))
