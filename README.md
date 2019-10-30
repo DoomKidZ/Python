@@ -1,2 +1,2 @@
 # Python
- Python exercises
+ Python 3.7 exercises
