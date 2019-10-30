@@ -9,14 +9,12 @@ while (resp == 'sim'):
 
     #Declaração da variável 'Tamanho'.
     Tamanho = float()
-    Tamanho == 0
 
-    #Declaração das variáveis 'min' e 'sec' como contadore dos minutos e segundos.
+    #Declaração das variáveis 'min' e 'sec' como contadores dos minutos e segundos.
     sec = int()
     min = int()
-    sec == 0
 
-    #Espaço de separação.. UwU
+    #Quebra de linha.. ( '-')
     print()
 
     #Estrutura de repetição em que cada loop é considerado como 1 segundo até atingir 60 e contar o minuto.
