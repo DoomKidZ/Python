@@ -26,6 +26,3 @@ while (x == 1 ):
         print ("    B"+bin[40:48]+",")
         print ("    B"+bin[48:56]+",")
         print ("    B"+bin[56:64]+"\n}")
-
-
-
