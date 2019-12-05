@@ -1,2 +1,2 @@
-n = input("Digite um nÃºmero: ")
-print("O nÃºmero digitado foi: ", n)
+float n = input("Digite um número: ")
+print("O número digitado foi: ", n)
